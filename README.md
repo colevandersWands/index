@@ -10,5 +10,5 @@
 
 ## JS-Reference
 
-## [Vocab] (https://github.com/colevandersWands/vocab/tree/master)
+## [Vocab](https://github.com/colevandersWands/vocab/tree/master)
 
